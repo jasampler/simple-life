@@ -32,7 +32,7 @@ Simple command-line version of Conway's Game of Life
                   by default calculated to center the board in (0, 0)
       --startline [LINE] / --endline [LINE] / --sepline [LINE]
                   Prints the given line before each board, after it
-                  or between two boards. By default only --sepline QQ
+                  or between two boards. By default only --sepline ""
                   is active, but can be removed just using --sepline
       -o|--outfmt ",ALIVE,DEAD[,SEP,START,END]"
                   Format to print the lines, using the first character
