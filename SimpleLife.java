@@ -611,8 +611,8 @@ public class SimpleLife {
 	p("              by default calculated to center the board in (0, 0)");
 	p("  --startline [LINE] / --endline [LINE] / --sepline [LINE]");
 	p("              Prints the given line before each board, after it");
-	p("              or between two boards. By default only --sepline QQ");
-	q("              is active, but can be removed just using --sepline");
+	q("              or between two boards. By default only --sepline QQ");
+	p("              is active, but can be removed just using --sepline");
 	p("  -o|--outfmt \",ALIVE,DEAD[,SEP,START,END]\"");
 	p("              Format to print the lines, using the first character");
 	p("              to separate the fields that will be concatenated as:");
