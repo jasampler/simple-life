@@ -1,7 +1,7 @@
 # SimpleLife
 Simple command-line version of Conway's Game of Life
 
-    echo "oooooooo.ooooo...ooo......ooooooo.ooo" | java -jar SimpleLife.jar --sepline -g 550 -m -11,0 | more
+    echo "oooooooo.ooooo...ooo......ooooooo.ooooo" | java -jar SimpleLife.jar --sepline -g 550 -m -11,0 | more
 
     java -jar SimpleLife.jar -h
 
